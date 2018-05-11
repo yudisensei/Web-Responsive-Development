@@ -1,0 +1,27 @@
+	PORTUGUESE | ENGLISH
+
+<table> 
+<tag table usada para criar uma área para tabela --> <!-- tag table used to create an area for table -->
+
+<table border="">
+<!-- border: espessura das bordas de toda tabela --> <!-- thickness of entire table borders -->
+
+<table Cellspacing="">
+<!-- Cellspacing: distância entre as celulas da tabela --> <!-- distance between table cells -->
+					
+==================================================================================================================
+
+<tr> 
+<!-- tr: linha de uma tabela | a line of table -->
+
+<tr rowspan="put number here">
+<!--rowspan: O número de linhas que serão mescladas para formar um só | The number of lines that will be merged to form one-->
+
+<th>
+<!-- th: coluna de uma tabela | a column of table--> 
+
+<th colspan="put number here">
+<!--colspan: o número de colunas que serão mescladas para formar uma só | The number of columns that will be merged to form one -->
+
+<td>
+<-- td: coluna de conteúdo de uma tabela | a column of content of a table >
