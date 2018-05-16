@@ -1,0 +1,55 @@
+*{
+font-family: tahoma , sans-serif;
+margin: 0px;
+padding: 0px;
+}
+.container{
+  background:#fff2b8;
+  position: relative;
+  margin: 0 auto;
+  width: 1000px;
+}
+fieldset{
+  display: inline-block;
+  height: auto;
+  overflow: hidden;
+  margin: 0 auto;
+  border: 2px solid;
+}
+
+nav{
+  background: linear-gradient(90deg,#ffea79 25%,#d0b631 60%);
+  width: 100%;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  font-weight: bolder;
+
+}
+
+nav a {
+text-decoration: none;
+color:#e20808 ;
+font-weight: bold;
+font-size: 20px;
+}
+.listHeader{
+  list-style: none;
+  margin-left: 15%;
+
+}
+
+label{
+  float: left;#f1ce66
+  display: inline-block;
+  clear: left;
+  text-align: left;
+  align-items: center;
+  position: absolute;
+}
+input{
+  margin-left: 89px;
+}
+nav .listHeader li{
+  display: inline;
+  padding-left: 20px;
+}
